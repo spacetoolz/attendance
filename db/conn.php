@@ -1,19 +1,19 @@
 <?php
 
     // DEVELOPMENT CONNECTION////////
-     $host = '127.0.0.1';
-     $db = 'attendance';
-     $user = 'root';// authetication credettials for 
-     $pass = '';
-     $charset = 'utf8mb4';
+     //$host = '127.0.0.1';
+     //$db = 'attendance';
+     //$user = 'root';// authetication credettials for 
+    // $pass = '';
+     //$charset = 'utf8mb4';
 
 
     // REMOTE SQLDATABASE CONNECTION
-    // $host = 'remotemysql.com';
-    // $db = 'ILQ1WvC77t';
-    // $user = 'ILQ1WvC77t';// authetication credettials for 
-    // $pass = 'HuvaZA63hz';
-    // $charset = 'utf8mb4';
+     $host = 'remotemysql.com';
+     $db = 'ILQ1WvC77t';
+     $user = 'ILQ1WvC77t';// authetication credettials for 
+     $pass = 'HuvaZA63hz';
+     $charset = 'utf8mb4';
 
 
     // calls the host to launch ip address, calls the db and the charset
